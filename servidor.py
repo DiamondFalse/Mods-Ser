@@ -10,7 +10,6 @@
 # Code           Place
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)stop
-
 # au		  Australia (Sydney)
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
